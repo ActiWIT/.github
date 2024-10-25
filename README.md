@@ -1,1 +1,1 @@
-# .github
+Represents active, innovative solutions in IT.
